@@ -22,17 +22,11 @@ Logout : The user can logout the account and it will redicted to the login page.
 ### Technologies Used :-
 
 Hyper Text Markup Language (HTML),
-
 Cascading Style Sheets (CSS),
-
 Javascript(JS)
-
 Hibernate,
-
 Spring MVC(Model View Controller)
-
 MySQL database,
-
 Apache (Tomcat Server 9.0 version)
 
 
